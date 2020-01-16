@@ -10,7 +10,7 @@ from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
 export_file_url = 'https://drive.google.com/uc?export=download&id=1qB6D4mnS4MgU93te845TItm3IeNns_qq'
-export_file_name = 'face6.pkl'
+export_file_name = 'face5.pkl'
 
 classes = ['tower','cathedral','maidan']
 path = Path(__file__).parent
